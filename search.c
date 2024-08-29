@@ -1,6 +1,7 @@
 //Program using pointers to check whether argv[ ] has user input value
 //This Program is not efficient as memory allocation is in Heap compared to variables in Stack.
-//This is just to demonstrate dynamic memory allocation and how the pointers work.
+//Objective is just to demonstrate dynamic memory allocation and how the pointers work.
+//Assuming user inputting only integer value.
 
 
 #include <stdio.h>
